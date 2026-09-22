@@ -441,18 +441,4 @@ Estoy interesado en seguir aprendiendo, compartir conocimientos y conectar con p
 
 🛡️ **Cybersecurity** · 🔎 **SOC** · 🌐 **Networking** · 💻 **Development** · 🎮 **Unity**
 
-<br>
-
-*"Cada proyecto es una oportunidad para aprender algo nuevo."*
-
-<br>
-
-<sub>Si revisaste todo mi README y llegaste hasta aquí...</sub>
-
-### 🎵 BEBITO FIU FIU 🎵
-
-**Achievement unlocked 🏆**
-
-`+100 Cybersecurity XP`
-
 </div>
