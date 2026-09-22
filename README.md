@@ -429,7 +429,7 @@ Estoy interesado en seguir aprendiendo, compartir conocimientos y conectar con p
 [![GitHub](https://img.shields.io/badge/GitHub-SantyGrana2-181717?style=for-the-badge&logo=github)](https://github.com/SantyGrana2)
 
 <!-- Cuando tengas la URL de LinkedIn, reemplaza TU-LINKEDIN por tu enlace -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Santiago_Granados-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Santiago_Granados-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-granados-garzon-developer/)
 
 ---
 
